@@ -3,3 +3,78 @@
   margin: 0;
   padding: 0;
 }
+
+.main-container {
+  border: 2px solid;
+}
+
+.title {
+
+}
+
+.dropdown-countainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.instruction-from-text {
+
+}
+
+.convert-from-dropdown {
+  margin: 20px;
+}
+
+.instruction-to-text {
+
+}
+
+.convert-to-dropdown {
+  margin: 20px;
+}
+
+.calculationContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.from-container {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid;
+  align-items: center;
+}
+
+.input-quantity {
+  border: 2px solid red;
+  width: 50%;
+  margin: 20px;
+}
+
+.convert-from-display {
+
+}
+
+.conversion-output-container {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid;
+  align-items: center;
+}
+
+.output-display {
+  border: 2px solid red;
+  width: 50%;
+  margin: 20px;
+}
+
+.output-currency {
+
+}
+
+.convert-button {
+  border: 2px solid purple;
+  width: 20%;
+  margin: 20px;
+}
